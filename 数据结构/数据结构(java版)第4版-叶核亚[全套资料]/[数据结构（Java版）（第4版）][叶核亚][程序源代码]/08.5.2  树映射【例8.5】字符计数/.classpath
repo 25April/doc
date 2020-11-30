@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/08.5.1  二叉排序树【例8.4】互异排序集合"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/08.4.2  散列映射 【例8.3】字符计数"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/08.4.1  散列表【例8.2，习题解答8-12】互异集合"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

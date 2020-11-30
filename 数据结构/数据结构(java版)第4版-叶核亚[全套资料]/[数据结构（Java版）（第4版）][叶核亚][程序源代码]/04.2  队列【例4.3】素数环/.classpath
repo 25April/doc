@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/02.2.2  顺序表"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/02.3.2  3. 单链表"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/02.2.3  排序顺序表【例2.3】插入"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

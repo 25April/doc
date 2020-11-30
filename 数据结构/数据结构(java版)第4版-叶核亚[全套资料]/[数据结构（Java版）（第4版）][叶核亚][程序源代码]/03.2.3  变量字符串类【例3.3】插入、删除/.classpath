@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/03.3  串的模式匹配【例3.4】替换和删除StringBuffer子串"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

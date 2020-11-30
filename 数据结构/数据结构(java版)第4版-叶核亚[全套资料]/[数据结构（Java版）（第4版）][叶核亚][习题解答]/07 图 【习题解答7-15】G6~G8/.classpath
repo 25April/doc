@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/07  图 【例7.1】G3~G5"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/05.2.2  稀疏矩阵的压缩存储 4. 行的单链表【例5.2】"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

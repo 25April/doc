@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/04.1  栈【例4.1~4.2】表达式"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/04.2  队列【例4.3】素数环"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/02.2.2  顺序表"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/01.2.3  算法设计【例1.4】随机数集合"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/09.1~9.4  排序【例9.1】"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/08.2~3  二分法查找 分块查找【例8.1】关键字"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
